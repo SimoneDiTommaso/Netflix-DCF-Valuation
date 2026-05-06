@@ -15,10 +15,6 @@ This project presents a rigorous intrinsic valuation of **Netflix Inc.** using a
 *   **Bottom-up Beta:** Utilized an unlevered industry beta for the Entertainment sector (0.91), re-levered based on Netflix's specific D/E ratio (13.71%).
 *   **Cost of Debt:** Estimated a pre-tax cost of debt of 4.96% using interest coverage ratios and corporate default spreads.
 
-### Risk Modeling Integration
-This valuation serves as the fundamental basis for my Master's Thesis research on tail-risk forecasting. I utilize the Expected Shortfall ($ES$) metric to assess potential downside:
-$$ES_{t}(\alpha)=\left(1+\frac{1}{\alpha(\Omega_{t}(q_{t}(\alpha))-1)}\right)q_{t}(\alpha)$$
-
 
 <img width="474" height="203" alt="02_RnD_Capitalization" src="https://github.com/user-attachments/assets/4401697b-e8d9-4302-9021-c1a3e13b4b10" />
 <img width="1449" height="123" alt="01_WACC_Assumptions" src="https://github.com/user-attachments/assets/81ec770f-bc91-4ee8-a3c4-46bda4fd046b" />
